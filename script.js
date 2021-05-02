@@ -13,7 +13,6 @@ var synth = window.speechSynthesis;
 var read_text = document.querySelector("[type='button']");
 var voiceSelect = document.querySelector('select');
 var voices = [];
-// var volume_level = 3;
 
 const range = document.querySelector("#volume-group > input[type='range']");
 const icon = document.querySelector("#volume-group > img");
