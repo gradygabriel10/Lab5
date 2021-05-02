@@ -1,11 +1,11 @@
 # CSE110 SP21 Lab 5
 
 ## Author(s):
-- YOUR NAME
+Grady Gabriel
 
 ## Part 1:
 
-LINK TO YOUR PUBLISHED SITE
+https://github.com/gradygabriel10/github-actions-for-ci/issues/7
 
 ## Part 2:
 
